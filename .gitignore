@@ -1,0 +1,6 @@
+*.vim
+
+*.*proj*
+
+Debug*
+Release*
