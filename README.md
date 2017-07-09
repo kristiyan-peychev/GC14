@@ -1,6 +1,8 @@
 #GC14
 -----
 
+![Build status](https://travis-ci.org/kristiyan-peychev/GC14.svg?branch=master)
+
 ##Introduction
 GC14 is a C++14 intrusive tracing garbage collector implemented using only the
 C++14 standard template library.
