@@ -6,7 +6,9 @@ matrix:
           sources:
             - ubuntu-toolchain-r-test
           packages:
+            - g++-5
             - g++-6
+            - libpthread-stubs0-dev
       env:
         - MATRIX_EVAL="CC=gcc-6 && CXX=g++-6"
 
